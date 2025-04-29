@@ -1,0 +1,12 @@
+A = int(input('diga um numero para vermos sua tabuada: '))
+
+print(f'{A} x {1:2} = {A * 1}')
+print(f'{A} x {2:2} = {A * 2}')
+print(f'{A} x {3:2} = {A * 3}')
+print(f'{A} x {4:2} = {A * 4}')
+print(f'{A} x {5:2} = {A * 5}')
+print(f'{A} x {6:2} = {A * 6}')
+print(f'{A} x {7:2} = {A * 7}')
+print(f'{A} x {8:2} = {A * 8}')
+print(f'{A} x {9:2} = {A * 9}')
+print(f'{A} x {10} = {A * 10}')
