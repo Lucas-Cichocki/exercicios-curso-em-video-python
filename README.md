@@ -1,6 +1,6 @@
 # Exercícios de Python – Curso em Vídeo
 
-Este repositório contém os exercícios resolvidos durante os **Mundos 1 e 2** do curso de Python ministrado pelo professor Gustavo Guanabara, no site **Curso em Vídeo**.
+Este repositório contém os exercícios resolvidos durante os **Mundos 1, 2 e 3** do curso de Python ministrado pelo professor Gustavo Guanabara, no site **Curso em Vídeo**.
 
 ## ✔️ Conteúdo abordado
 
@@ -18,6 +18,14 @@ Este repositório contém os exercícios resolvidos durante os **Mundos 1 e 2** 
 - Vetores (listas)
 - Manipulação de strings e números
 - Validação de dados
+
+### ✅ Mundo 3 – Estruturas Compostas e Manipulação de Dados
+- Tuplas e diferenças em relação às listas
+- Listas compostas (listas dentro de listas)
+- Dicionários e manipulação de dados em pares chave:valor
+- Estruturas aninhadas com dicionários e listas
+- Prática com estruturas complexas (cadastros, análises)
+- Iteração e acesso a dados em estruturas compostas
 
 ## 💻 Como executar os códigos
 
