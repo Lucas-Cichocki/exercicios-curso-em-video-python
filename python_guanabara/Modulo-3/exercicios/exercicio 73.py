@@ -1,0 +1,12 @@
+times = ('Palmeiras', 'Red Bull Bragantino', 'Flamengo', 'Cruzeiro', 'Fluminense', 'Bahia', 'Ceará','Corinthians', 'Internacional', 'Atlético Mineiro', 'São Paulo', 'Botafogo', 'Grêmio', 'Fortaleza', 'Juventude', 'Vasco da Gama', 'Santos', 'Mirassol', 'Vitória', 'Sport Recife')
+
+print('=' * 20)
+print(f'Lista de todos os times {times}')
+print('=' * 20)
+print(f'Os primeiros colocados sao {times[:5]}')
+print('=' * 20)
+print(f'Os 4 ultimos sao {times[-4:]}')
+print('=' * 20)
+print(f'Os times em ordem alfabetica: {sorted(times )}')
+print('=' * 20)
+print(f'O time internacional esta na posiçao: {times.index('Internacional') + 1}')
